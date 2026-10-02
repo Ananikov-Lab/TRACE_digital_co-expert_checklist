@@ -2,7 +2,7 @@
 The TRACE checklist is a structured, stage-by-stage instrument for documenting how a review article was designed, executed, controlled, and finalized. It is suitable both for reviews written solely by humans and for reviews prepared with an AI co-expert. The checklist is designed to make the hidden methodological layer of review preparation visible.
 The checklist follows the 12-stage TRACE framework described in the accompanying article. It records practical details at each stage – including review scope, time span covered, search keywords, databases used, record counts, deduplication and screening outcomes, full-text coverage, how studies were assigned to sections, verification steps, and final update procedures.
 Review preparation stages of TRACE workflow are summarized below:
-(https://github.com/DariArkh/TRACE_digital_co-expert/download/TRACE_framework.jpg)
+![TRACE framework](https://github.com/DariArkh/TRACE_digital_co-expert/download/TRACE_framework.jpg)
 *reprint from Russ. Chem. Rev., 95(11), RCR5239 (2026)
 The latest checklist can be downloaded as a Word document: [TRACE_checklist.docx](https://github.com/DariArkh/TRACE_digital_co-expert/releases/latest/download/TRACE_checklist.docx)
 We developed the TRACE checklist for authors of review articles; once completed and shared, it also serves readers, reviewers, and editors. The completed checklist should be submitted for publication as Supplementary material together with the corresponding review article.
