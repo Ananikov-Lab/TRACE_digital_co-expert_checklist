@@ -11,7 +11,7 @@ Review preparation stages of TRACE workflow* are summarized below:
 ![TRACE framework](TRACE_framework.jpg)
 
 
-*reprint from Russ. Chem. Rev., 95(11), RCR5239 (2026)
+*reproduced from Russ. Chem. Rev., 95(11), RCR5239 (2026); DOI:10.59761/RCR5239 according to Open Access Creative Commons Attribution License.
 
 
 The latest checklist can be downloaded as a Word document: [TRACE_checklist.docx](https://github.com/DariArkh/TRACE_digital_co-expert/releases/latest/download/TRACE_checklist.docx)
@@ -19,15 +19,15 @@ The latest checklist can be downloaded as a Word document: [TRACE_checklist.docx
 
 We developed the TRACE checklist for authors of review articles; once completed and shared, it also serves readers, reviewers, and editors. The completed checklist should be submitted for publication as Supplementary material together with the corresponding review article.
 ## Citation
-V.P. Ananikov, D.M. Arkhipova, A.S. Kashin, A.P. Vorozhtsov. [Writing review articles with AI: the TRACE digital co-expert approach]( https://doi.org/10.59761/RCR5239). Russ. Chem. Rev., 95(11), RCR5239 (2026); DOI:10.59761/RCR5239 
+V.P. Ananikov, D.M. Arkhipova, A.S. Kashin, A.P. Vorozhtsov. [Writing review articles with AI: the TRACE digital co-expert approach](https://doi.org/10.59761/RCR5239). Russ. Chem. Rev., 95(11), RCR5239 (2026); DOI:10.59761/RCR5239 
 ## Usage
-This work is licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+This work is licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 
 
 The latest checklist can be downloaded as a Word document: [TRACE_checklist.docx](https://github.com/DariArkh/TRACE_digital_co-expert/releases/latest/download/TRACE_checklist.docx)
 
 
-When citing this document, please refer to the TRACE Checklist v1.0.
+When citing this document, please refer to https://github.com/DariArkh/TRACE_digital_co-expert v1.0.
 
 
 We strongly recommend reading this checklist in conjunction with the reference article above for important clarifications on all the items.
@@ -38,10 +38,7 @@ We will update the checklist as the framework evolves.
 A worked example is provided to show how the checklist can be filled in practice.
 
 
-The fulfilled TRACE_checklist_v1.0 can be downloaded as a PDF document: [Worked_Example.pdf](Worked_Example.pdf?raw=true)
-
-
-D.A. Arkhipova, A.S. Kashin, A.P. Vorozhtsov, V.P. Ananikov. [Synthetic data in electron microscopy. AI co-expert-assisted review](https://doi.org/10.59761/RCR5240). Russ. Chem. Rev., 95(11), RCR5240 (2026); DOI:10.59761/RCR5240 
+The fulfilled TRACE_checklist_v1.0 for D.A. Arkhipova, A.S. Kashin, A.P. Vorozhtsov, V.P. Ananikov. [Synthetic data in electron microscopy. AI co-expert-assisted review](https://doi.org/10.59761/RCR5240). Russ. Chem. Rev., 95(11), RCR5240 (2026); DOI:10.59761/RCR5240 can be downloaded as a PDF document: [Worked_Example.pdf](https://github.com/DariArkh/TRACE_digital_co-expert/raw/main/Worked_Example.pdf)
 ## Language
 English
 ## Contact
