@@ -21,10 +21,19 @@ We developed the TRACE checklist for authors of review articles; once completed 
 ## Citation
 V.P. Ananikov, D.M. Arkhipova, A.S. Kashin, A.P. Vorozhtsov. [Writing review articles with AI: the TRACE digital co-expert approach]( https://doi.org/10.59761/RCR5239). Russ. Chem. Rev., 95(11), RCR5239 (2026); DOI:10.59761/RCR5239 
 ## Usage
-License?
+This work is licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
 
 The latest checklist can be downloaded as a Word document: [TRACE_checklist.docx](https://github.com/DariArkh/TRACE_digital_co-expert/releases/latest/download/TRACE_checklist.docx)
+
+
+When citing this document, please refer to the TRACE Checklist v1.0.
+
+
+We strongly recommend reading this checklist in conjunction with the reference article above for important clarifications on all the items.
+
+
+We will update the checklist as the framework evolves.
 ### Worked example
 A worked example is provided to show how the checklist can be filled in practice.
 
