@@ -38,7 +38,8 @@ We will update the checklist as the framework evolves.
 A worked example is provided to show how the checklist can be filled in practice.
 
 
-The fulfilled TRACE_checklist_v1.0 for D.A. Arkhipova, A.S. Kashin, A.P. Vorozhtsov, V.P. Ananikov. [Synthetic data in electron microscopy. AI co-expert-assisted review](https://doi.org/10.59761/RCR5240). Russ. Chem. Rev., 95(11), RCR5240 (2026); DOI:10.59761/RCR5240 can be downloaded as a PDF document: [Worked_Example.pdf](https://github.com/DariArkh/TRACE_digital_co-expert/raw/main/Worked_Example.pdf)
+The fulfilled TRACE_checklist_v1.0 can be downloaded as a PDF document: [Worked_Example.pdf](https://github.com/DariArkh/TRACE_digital_co-expert/raw/main/Worked_Example.pdf)
+The checklist for: D.A. Arkhipova, A.S. Kashin, A.P. Vorozhtsov, V.P. Ananikov. [Synthetic data in electron microscopy. AI co-expert-assisted review](https://doi.org/10.59761/RCR5240). Russ. Chem. Rev., 95(11), RCR5240 (2026); DOI:10.59761/RCR5240 
 ## Language
 English
 ## Contact
