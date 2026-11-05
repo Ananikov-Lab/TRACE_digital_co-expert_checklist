@@ -5,13 +5,16 @@ The TRACE checklist is a structured, stage-by-stage instrument for documenting h
 The checklist follows the 12-stage TRACE framework described in the accompanying article. It records practical details at each stage – including review scope, time span covered, search keywords, databases used, record counts, deduplication and screening outcomes, full-text coverage, how studies were assigned to sections, verification steps, and final update procedures.
 
 
-Review preparation stages of TRACE workflow* are summarized below:
+Review preparation stages of TRACE workflow** are summarized below:
 
 
 ![TRACE framework](TRACE_framework.jpg)
 
 
-*reproduced from Russ. Chem. Rev., 95(11), RCR5239 (2026); DOI:10.59761/RCR5239 according to Open Access Creative Commons Attribution License.
+*CoLab refers to https://colab.ws
+
+
+**reproduced from Russ. Chem. Rev., 95(11), RCR5239 (2026); DOI:10.59761/RCR5239 according to Open Access Creative Commons Attribution License.
 
 
 The latest checklist can be downloaded as a Word document: [TRACE_checklist.docx](https://github.com/DariArkh/TRACE_digital_co-expert/releases/latest/download/TRACE_checklist.docx)
@@ -27,7 +30,10 @@ This work is licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/?
 The latest checklist can be downloaded as a Word document: [TRACE_checklist.docx](https://github.com/DariArkh/TRACE_digital_co-expert/releases/latest/download/TRACE_checklist.docx)
 
 
-When citing this document, please refer to https://github.com/DariArkh/TRACE_digital_co-expert v1.0.
+When citing this document, please refer to the exact version you used.
+
+
+Current citable version v1.0 - https://github.com/Ananikov-Lab/TRACE_digital_co-expert/releases/tag/v1.0
 
 
 We strongly recommend reading this checklist in conjunction with the reference article above for important clarifications on all the items.
