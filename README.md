@@ -11,7 +11,7 @@ Review preparation stages of TRACE workflow** are summarized below:
 ![TRACE framework](TRACE_framework.jpg)
 
 
-*CoLab refers to https://colab.ws
+*CoLab refers to `https://colab.ws`
 
 
 **reproduced from Russ. Chem. Rev., 95(11), RCR5239 (2026); DOI:10.59761/RCR5239 according to Open Access Creative Commons Attribution License.
@@ -33,7 +33,7 @@ The latest checklist can be downloaded as a Word document: [TRACE_checklist.docx
 When citing this document, please refer to the exact version you used.
 
 
-Current citable version v1.0 - https://github.com/Ananikov-Lab/TRACE_digital_co-expert/releases/tag/v1.0
+Current citable version v1.0 - `https://github.com/Ananikov-Lab/TRACE_digital_co-expert/releases/tag/v1.0`
 
 
 We strongly recommend reading this checklist in conjunction with the reference article above for important clarifications on all the items.
@@ -44,7 +44,7 @@ We will update the checklist as the framework evolves.
 A worked example is provided to show how the checklist can be filled in practice.
 
 
-The fulfilled TRACE_checklist_v1.0 can be downloaded as a PDF document: [Worked_Example.pdf](https://github.com/DariArkh/TRACE_digital_co-expert/raw/main/Worked_Example.pdf)
+The fulfilled TRACE checklist v1.0 can be downloaded as a PDF document: [Worked_Example.pdf](https://github.com/DariArkh/TRACE_digital_co-expert/raw/main/Worked_Example.pdf)
 
 
 The checklist for: D.A. Arkhipova, A.S. Kashin, A.P. Vorozhtsov, V.P. Ananikov. [Synthetic data in electron microscopy. AI co-expert-assisted review](https://doi.org/10.59761/RCR5240). Russ. Chem. Rev., 95(11), RCR5240 (2026); DOI:10.59761/RCR5240 
